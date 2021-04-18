@@ -3,7 +3,7 @@ h1{
     text-align: center;
 }
 body{
-    background-color: rgb(245, 239, 215);
+    background-color: lightgray;
 }
 img{
     width: 1000px;
@@ -12,9 +12,11 @@ img{
 div.quotes{
     font-weight: 900;
     display: block;
+    background-image: url('Pictures/beach.jpg');
 }
 .my-fav{
-    font-style: italic bold;
+    font-style: bold;
+    font-style: italic;
     text-align: center;
     color: rgb(21, 29, 41);
 }
