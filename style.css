@@ -1,0 +1,21 @@
+h1{
+    font-style: times bold;
+    text-align: center;
+}
+img{
+    width: 1000px;
+    height: 400px;
+}
+.my-fav{
+    font-style: italic bold;
+    text-align: center;
+    color: rgb(21, 29, 41);
+}
+.Bandname{
+    color: rgba(66, 5, 5, 0.582);
+    font-style: bold;
+    text-align: center;
+}
+.introduction{
+    
+}
