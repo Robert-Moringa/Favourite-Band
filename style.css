@@ -9,6 +9,10 @@ img{
     width: 1000px;
     height: 400px;
 }
+div{
+    font-weight: bold;
+    display: block;
+}
 .my-fav{
     font-style: italic bold;
     text-align: center;
