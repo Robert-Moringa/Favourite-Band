@@ -2,6 +2,9 @@ h1{
     font-style: times bold;
     text-align: center;
 }
+body{
+    background-color: rgb(245, 239, 215);
+}
 img{
     width: 1000px;
     height: 400px;
@@ -15,7 +18,4 @@ img{
     color: rgba(66, 5, 5, 0.582);
     font-style: bold;
     text-align: center;
-}
-.introduction{
-    
 }
