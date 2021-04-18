@@ -19,6 +19,7 @@ div.quotes{
     font-style: italic;
     text-align: center;
     color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .Bandname{
     color: rgba(15, 0, 0, 0.582);
@@ -26,7 +27,7 @@ div.quotes{
     text-align: center;
 }
 div.list{
-    height: 80px;
+    height: 100px;
     overflow: scroll;
 }
 .biography{
