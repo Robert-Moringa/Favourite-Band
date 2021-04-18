@@ -32,11 +32,10 @@ div.list{
 }
 .biography{
     padding: 15px 5px 15px 0px;
-    background-color: rgb(28, 114, 107);
+    background-color: rgb(6, 40, 83);
     box-sizing: content-box;
 }
 .copyright{
-    padding: 100%;
-    background-color: black;
-    
+    color: rgb(255, 0, 0);
+    text-align: center;
 }
