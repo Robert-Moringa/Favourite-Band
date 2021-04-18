@@ -26,9 +26,11 @@ div.quotes{
     text-align: center;
 }
 div.list{
-    height: 2.5cm;
+    height: 2cm;
     overflow: scroll;
 }
 .biography{
-    padding: 20px 20px 20px 20px;
+    padding: 15px 5px 15px 0px;
+    background-color: rgb(28, 114, 107);
+    box-sizing: content-box;
 }
