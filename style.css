@@ -35,3 +35,8 @@ div.list{
     background-color: rgb(28, 114, 107);
     box-sizing: content-box;
 }
+.copyright{
+    padding: 100%;
+    background-color: black;
+    
+}
