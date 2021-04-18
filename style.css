@@ -9,7 +9,7 @@ img{
     width: 1000px;
     height: 400px;
 }
-div{
+div.quote{
     font-weight: 900;
     display: block;
 }
@@ -22,4 +22,8 @@ div{
     color: rgba(66, 5, 5, 0.582);
     font-style: bold;
     text-align: center;
+}
+div.list{
+    height: 2.5cm;
+    overflow: scroll;
 }
